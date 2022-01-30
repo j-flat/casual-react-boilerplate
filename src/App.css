@@ -1,0 +1,5 @@
+/* Stylings for App component */
+.heading, .sub-heading {
+    color:green;
+    text-align: center;
+}
